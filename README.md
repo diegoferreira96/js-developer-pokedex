@@ -1,1 +1,1 @@
-# Trilha JS Developer - Pokede
+# Trilha JS Developer - PokedeX
